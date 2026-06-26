@@ -1,3 +1,6 @@
+**⚠️ Note:** Due to an Android build/compiler issue, the final APK/build will be uploaded within the next few hours. In the meantime, you can review the complete source code by downloading the ZIP file available in this repository.
+
+
 # SideQuest AI
 
 > Your notes remember what happened. SideQuest remembers what needs to happen next.
