@@ -1,0 +1,6 @@
+{
+  "name": "SideQuest AI",
+  "description": "An AI-powered execution engine that captures messy voice logs, screenshots, and text dumps, extracting hidden intent and converting them into actionable missions.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
